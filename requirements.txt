@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+scipy
+statsmodels
+pytorch
+tensorflow
+transformers
+tqdm
+pytest
+black
+flake8
+ipykernel 
