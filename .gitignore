@@ -1,0 +1,133 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Machine Learning specific
+# Data files
+*.csv
+*.dat
+*.gz
+*.npy
+*.npz
+*.pkl
+*.h5
+*.hdf5
+*.parquet
+*.feather
+data/raw/
+data/processed/
+data/interim/
+data/external/
+
+# Models
+*.model
+*.joblib
+*.pkl
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.onnx
+*.pb
+*.tflite
+*.keras
+*.bin
+models/
+checkpoints/
+wandb/
+logs/
+runs/
+tensorboard/
+
+# Large dataset files
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Temporary files
+tmp/
+temp/
+
+# Configuration
+config.ini
+secrets.yaml
+credentials.json
+.env
+
+# Logs
+*.log
+logs/
+
+# Generated files
+output/
+results/
+
+# Custom ML project specifics
+.weights/
+.cache/
+artifacts/ 
