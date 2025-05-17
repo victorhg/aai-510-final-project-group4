@@ -6,7 +6,7 @@ seaborn
 jupyter
 scipy
 statsmodels
-pytorch
+torch
 tensorflow
 transformers
 tqdm
