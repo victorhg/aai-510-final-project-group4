@@ -20,6 +20,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.gradio
 
 # Jupyter Notebook
 .ipynb_checkpoints
