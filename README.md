@@ -16,6 +16,13 @@ Shiley-Marcos School of Engineering, University of San Diego AAI-510: Machine Le
 
 ## Objective
 
+This project aims to develop a machine learning model that recommends the most suitable crop to cultivate based on specific agro-climatic conditions. Utilizing the Crop Recommendation Dataset from Kaggle, which includes features such as soil nutrients (N, P, K), temperature, humidity, pH, and rainfall, the objectives are:
+
+- Analyze and preprocess the dataset to ensure data quality and suitability for modeling.
+- Explore various classification algorithms (e.g., Random Forest, Support Vector Machines, Neural Networks) to identify the most effective model for crop prediction.
+- Evaluate model performance using appropriate metrics and validate its predictive accuracy.
+- Develop an interpretable and user-friendly recommendation system that can assist farmers in making informed decisions to enhance agricultural productivity.
+
 
 ## References
 
