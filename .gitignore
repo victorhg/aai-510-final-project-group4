@@ -68,7 +68,6 @@ coverage.xml
 
 # Machine Learning specific
 # Data files
-*.csv
 *.dat
 *.gz
 *.npy
